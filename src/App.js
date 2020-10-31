@@ -7,7 +7,7 @@ import { ThemeContext } from './components/ThemeContext'
 
 function App() {
   return (
-    <ThemeContext.Provider value={{background:'#f1f', color:'#33e'}}>
+    <ThemeContext.Provider value={{background:'#000', color:'#fff'}}>
       <div className="App">
         <Header />
       </div>

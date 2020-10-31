@@ -8,7 +8,7 @@ const Header = () => {
             {({background, color}) => {
 
             return (<div>
-                <h1 style={{backgroundColor: background, color: color}}>Hello there from Oluwasayo.</h1>
+                <h1 style={{backgroundColor: background, color: color}}>stYce</h1>
             </div>)
             }}
 
